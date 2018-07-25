@@ -4,7 +4,7 @@ def using_while
 	def alarm_clock_claire
   puts "Wingardium Leviosa!"
   levitation_force+=1
-end
+  end
 end
 
 using_while
